@@ -2,6 +2,9 @@ import pickle
 from pathlib import Path
 import numpy as np
 import requests
+import streamlit as st
+
+openweather_API_KEY = st.secrets["openweather_API_KEY"]
 
 def load_models(model_dir="app/models"):
     """
@@ -28,7 +31,7 @@ def fetch_openweather_windspeeds(duid_meta):
             continue
 
         # Example API call (replace with your API key)
-        url = f"https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=W399GH4V5TUKJB93AQG3BDQWX&units=metric"
+        url = f"https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={openweather_API_KEY}&units=metric"
         try:
             data = requests.get(url).json()
             ws_dict[duid] = data['wind']['speed']  # m/s

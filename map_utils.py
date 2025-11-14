@@ -1,5 +1,8 @@
 import folium
 from folium.plugins import FloatImage
+import streamlit as st
+
+openweather_API_KEY = st.secrets["openweather_API_KEY"]
 
 WARNING_ICON = "https://upload.wikimedia.org/wikipedia/commons/5/50/Yellow_warning_icon.png"
 
@@ -8,7 +11,7 @@ def make_windfarm_map(df):
 
     # Add OpenWeather wind tile layer
     folium.TileLayer(
-        tiles="https://tile.openweathermap.org/map/wind_new/{z}/{x}/{y}.png?appid=f05a24cb7f6de532c1dfbe891c86552e",
+        tiles="https://tile.openweathermap.org/map/wind_new/{z}/{x}/{y}.png?appid={openweather_API_KEY}",
         attr="OpenWeatherMap",
         name="Wind Layer",
         opacity=0.6

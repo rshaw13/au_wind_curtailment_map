@@ -10,9 +10,6 @@ from anomaly_counter import update_anomaly_total
 
 st.set_page_config(page_title="Australia Windfarm Live Monitor", layout="wide")
 
-# Auto-refresh every 15 minutes
-st_autorefresh = st.experimental_rerun
-
 st.title("🌀 Australia Windfarm Live Performance Monitor")
 
 # -------------------------
