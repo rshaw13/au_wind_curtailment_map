@@ -1,0 +1,730 @@
+{
+  "CAPTL_WF": {
+    "duid": "CAPTL_WF",
+    "name": "Capital Wind Farm",
+    "lat": -35.1,
+    "lon": 149.31,
+    "capacity_mw": 140,
+    "participant": "Iberdrola Australia Holdings Pty Limited"
+  },
+  "CHALLHWF": {
+    "duid": "CHALLHWF",
+    "name": "Challicum Hills Wind Farm",
+    "lat": -37.38,
+    "lon": 143.11,
+    "capacity_mw": 52.5,
+    "participant": "Pacific Hydro Challicum Hills Pty Ltd"
+  },
+  "CULLRGWF": {
+    "duid": "CULLRGWF",
+    "name": "Cullerin Range Wind Farm",
+    "lat": -34.81,
+    "lon": 149.4,
+    "capacity_mw": 30,
+    "participant": "Cullerin Range Wind Farm Pty Ltd"
+  },
+  "DIAPURWF1": {
+    "duid": "DIAPURWF1",
+    "name": "Diapur Wind Farm",
+    "lat": -36.3425,
+    "lon": 141.43,
+    "capacity_mw": 8,
+    "participant": "Y.E.S. Energy (SA) Pty Ltd"
+  },
+  "MLWF1": {
+    "duid": "MLWF1",
+    "name": "Mortons Lane Wind Farm",
+    "lat": -37.84,
+    "lon": 142.45,
+    "capacity_mw": 20,
+    "participant": "Mortons Lane Windfarm Pty Limited"
+  },
+  "WAUBRAWF": {
+    "duid": "WAUBRAWF",
+    "name": "Waubra Wind Farm",
+    "lat": -37.394498,
+    "lon": 143.638982,
+    "capacity_mw": 192,
+    "participant": "Pyrenees Wind Energy Developments Pty Ltd"
+  },
+  "WOOLNTH1": {
+    "duid": "WOOLNTH1",
+    "name": "Woolnorth Studland Bay / Bluff Point Wind Farm",
+    "lat": -40.69,
+    "lon": 144.72,
+    "capacity_mw": 140,
+    "participant": "Hydro-Electric Corporation"
+  },
+  "YAMBUKWF": {
+    "duid": "YAMBUKWF",
+    "name": "Yambuk Wind Farm",
+    "lat": -38.299083,
+    "lon": 142.027577,
+    "capacity_mw": 30,
+    "participant": "Energy Pacific (Vic) Pty Ltd"
+  },
+  "YSWF1": {
+    "duid": "YSWF1",
+    "name": "Yaloak South Wind Farm",
+    "lat": -37.7163,
+    "lon": 144.242853,
+    "capacity_mw": 28.7,
+    "participant": "Pacific Hydro Yaloak South Pty Ltd"
+  },
+  "ARWF1": {
+    "duid": "ARWF1",
+    "name": "Ararat Wind Farm",
+    "lat": -37.232778,
+    "lon": 143.031389,
+    "capacity_mw": 241.59,
+    "participant": "Ararat Wind Farm Pty Ltd"
+  },
+  "BALDHWF1": {
+    "duid": "BALDHWF1",
+    "name": "Bald Hills Wind Farm",
+    "lat": -38.79,
+    "lon": 145.93,
+    "capacity_mw": 106.6,
+    "participant": "Alinta Energy Retail Sales Pty Ltd"
+  },
+  "BANGOWF1": {
+    "duid": "BANGOWF1",
+    "name": "Bango 973 Wind Farm",
+    "lat": -34.551582,
+    "lon": 148.732808,
+    "capacity_mw": 159,
+    "participant": "BWF Nominees Pty Ltd as The Trustee for BWF Trust"
+  },
+  "BANGOWF2": {
+    "duid": "BANGOWF2",
+    "name": "Bango 999 Wind Farm",
+    "lat": -34.551582,
+    "lon": 148.732808,
+    "capacity_mw": 84.8,
+    "participant": "BWF Nominees Pty Ltd as The Trustee for BWF Trust"
+  },
+  "BLUFF1": {
+    "duid": "BLUFF1",
+    "name": "The Bluff Wind Farm",
+    "lat": -33.367778,
+    "lon": 138.728611,
+    "capacity_mw": 52.5,
+    "participant": "AGL SA Generation Pty Limited"
+  },
+  "BOCORWF1": {
+    "duid": "BOCORWF1",
+    "name": "Boco Rock Wind Farm",
+    "lat": -36.578611,
+    "lon": 149.103333,
+    "capacity_mw": 113.18,
+    "participant": "Boco Rock Wind Farm Pty Ltd"
+  },
+  "BRYB1WF1": {
+    "duid": "BRYB1WF1",
+    "name": "Berrybank Wind Farm",
+    "lat": -37.94,
+    "lon": 143.52,
+    "capacity_mw": 180.6,
+    "participant": "Berrybank Development Pty Ltd"
+  },
+  "BRYB2WF2": {
+    "duid": "BRYB2WF2",
+    "name": "Berrybank 2 Wind Farm",
+    "lat": -37.94,
+    "lon": 143.52,
+    "capacity_mw": 109,
+    "participant": "Berrybank 2 Asset Pty Ltd as trustee for Berrybank 2 Asset Trust"
+  },
+  "BULGANA1": {
+    "duid": "BULGANA1",
+    "name": "Bulgana Green Power Hub",
+    "lat": -37.0975,
+    "lon": 142.973611,
+    "capacity_mw": 204,
+    "participant": "Bulgana Wind Farm Pty Ltd"
+  },
+  "CATHROCK": {
+    "duid": "CATHROCK",
+    "name": "Cathedral Rocks",
+    "lat": 34.51,
+    "lon": 135.35,
+    "capacity_mw": 66,
+    "participant": "Cathedral Rocks Wind Farm Pty Ltd"
+  },
+  "CHYTWF1": {
+    "duid": "CHYTWF1",
+    "name": "Cherry Tree Wind Farm",
+    "lat": -37.1,
+    "lon": 145.26,
+    "capacity_mw": 57.6,
+    "participant": "Cherry Tree Wind Farm Pty Ltd as trustee for The Cherry Tree Project trust"
+  },
+  "CLEMGPWF": {
+    "duid": "CLEMGPWF",
+    "name": "Clements Gap Wind Farm",
+    "lat": -33.48,
+    "lon": 138.1,
+    "capacity_mw": 57,
+    "participant": "Pacific Hydro Clements Gap Pty Ltd"
+  },
+  "CLRKCWF1": {
+    "duid": "CLRKCWF1",
+    "name": "Clarke Creek Wind Farm",
+    "lat": -22.85,
+    "lon": 149.45,
+    "capacity_mw": 345.5,
+    "participant": "Stanwell Corporation Limited"
+  },
+  "CLRKCWF2": {
+    "duid": "CLRKCWF2",
+    "name": "Clarke Creek Wind Farm",
+    "lat": -22.85,
+    "lon": 149.45,
+    "capacity_mw": 103.5,
+    "participant": "Stanwell Corporation Limited"
+  },
+  "CNUNDAWF": {
+    "duid": "CNUNDAWF",
+    "name": "Canunda Wind Farm",
+    "lat": -37.73,
+    "lon": 140.39,
+    "capacity_mw": 46,
+    "participant": "Canunda Power Pty Ltd"
+  },
+  "COLWF01": {
+    "duid": "COLWF01",
+    "name": "Collector Wind Farm 1",
+    "lat": -34.8719,
+    "lon": 149.3967,
+    "capacity_mw": 226,
+    "participant": "Collector Wind Farm Pty Ltd"
+  },
+  "COOPGWF1": {
+    "duid": "COOPGWF1",
+    "name": "Coopers Gap Wind Farm",
+    "lat": -26.74,
+    "lon": 151.45,
+    "capacity_mw": 452,
+    "participant": "PARF Company 10 Pty Limited as The Trustee for Coopers Gap Project Trust"
+  },
+  "CROOKWF2": {
+    "duid": "CROOKWF2",
+    "name": "Crookwell 2 Wind Farm",
+    "lat": -34.52,
+    "lon": 149.54,
+    "capacity_mw": 96.04,
+    "participant": "Crookwell Development Pty Ltd"
+  },
+  "CROOKWF3": {
+    "duid": "CROOKWF3",
+    "name": "Crookwell 3 Wind Farm",
+    "lat": -34.52,
+    "lon": 149.54,
+    "capacity_mw": 57,
+    "participant": "Crookwell 3 Development Pty Ltd"
+  },
+  "CROWLWF1": {
+    "duid": "CROWLWF1",
+    "name": "Crowlands Wind Farm",
+    "lat": -37.13,
+    "lon": 143.16,
+    "capacity_mw": 79.95,
+    "participant": "Pacific Hydro Crowlands Pty Ltd"
+  },
+  "CRURWF1": {
+    "duid": "CRURWF1",
+    "name": "Crudine Ridge Wind Farm",
+    "lat": -32.97,
+    "lon": 149.64,
+    "capacity_mw": 141,
+    "participant": "CRWF Nominees Pty Ltd As Trustee For The CRWF Trust"
+  },
+  "CTHLWF1": {
+    "duid": "CTHLWF1",
+    "name": "Cattle Hill Wind Farm",
+    "lat": -42.15,
+    "lon": 146.69,
+    "capacity_mw": 148,
+    "participant": "Wild Cattle Hill Pty Ltd"
+  },
+  "DULAWF1": {
+    "duid": "DULAWF1",
+    "name": "Dulacca Wind Farm",
+    "lat": -26.63,
+    "lon": 149.87,
+    "capacity_mw": 180,
+    "participant": "Dulacca Energy Project Co Pty Ltd"
+  },
+  "DUNDWF1": {
+    "duid": "DUNDWF1",
+    "name": "Dundonnell Wind Farm",
+    "lat": -37.52,
+    "lon": 142.58,
+    "capacity_mw": 168,
+    "participant": "Dundonnell Wind Farm Pty Ltd"
+  },
+  "DUNDWF2": {
+    "duid": "DUNDWF2",
+    "name": "Dundonnell Wind Farm",
+    "lat": -37.52,
+    "lon": 142.58,
+    "capacity_mw": 46,
+    "participant": "Dundonnell Wind Farm Pty Ltd"
+  },
+  "DUNDWF3": {
+    "duid": "DUNDWF3",
+    "name": "Dundonnell Wind Farm",
+    "lat": -37.52,
+    "lon": 142.58,
+    "capacity_mw": 121,
+    "participant": "Dundonnell Wind Farm Pty Ltd"
+  },
+  "ELAINWF1": {
+    "duid": "ELAINWF1",
+    "name": "Elaine Wind Farm",
+    "lat": -37.36,
+    "lon": 144,
+    "capacity_mw": 83.6,
+    "participant": "Lal Lal Wind Farms Nom Co Pty Ltd"
+  },
+  "FLYCRKWF": {
+    "duid": "FLYCRKWF",
+    "name": "Flyers Creek Wind Farm",
+    "lat": -33.365556,
+    "lon": 148.981944,
+    "capacity_mw": 145,
+    "participant": "Iberdrola Australia Energy Markets Pty Limited"
+  },
+  "GPWFEST1": {
+    "duid": "GPWFEST1",
+    "name": "Golden Plains Wind Farm East",
+    "lat": -37.945091,
+    "lon": 143.752614,
+    "capacity_mw": 248,
+    "participant": "Golden Plains WF1 Pty Ltd as Trustee for the Golden Plains WF1 Unit Trust"
+  },
+  "GPWFEST2": {
+    "duid": "GPWFEST2",
+    "name": "Golden Plains Wind Farm East",
+    "lat": -37.945091,
+    "lon": 143.752614,
+    "capacity_mw": 260.4,
+    "participant": "Golden Plains WF1 Pty Ltd as Trustee for the Golden Plains WF1 Unit Trust"
+  },
+  "GPWFEST3": {
+    "duid": "GPWFEST3",
+    "name": "Golden Plains Wind Farm East",
+    "lat": -37.945091,
+    "lon": 143.752614,
+    "capacity_mw": 248,
+    "participant": "Golden Plains WF1 Pty Ltd as Trustee for the Golden Plains WF1 Unit Trust"
+  },
+  "GRANWF1": {
+    "duid": "GRANWF1",
+    "name": "Granville Harbour Wind Farm",
+    "lat": -41.8,
+    "lon": 145.06,
+    "capacity_mw": 110,
+    "participant": "Granville Harbour Operations Pty Ltd as The Trustee for Granville Harbour Operations Trust"
+  },
+  "GSWF1A": {
+    "duid": "GSWF1A",
+    "name": "Goyder South Wind Farm 1A",
+    "lat": -33.679758,
+    "lon": 138.937597,
+    "capacity_mw": 209,
+    "participant": "Goyder Wind Farm 1 Pty Ltd as the Trustee for Goyder Wind Farm 1 Trust"
+  },
+  "GSWF1B1": {
+    "duid": "GSWF1B1",
+    "name": "Goyder South Wind Farm 1B",
+    "lat": -33.679758,
+    "lon": 138.937597,
+    "capacity_mw": 203,
+    "participant": "Goyder Wind Farm 1B Pty Ltd as the Trustee for the Goyder Wind Farm 1B Trust"
+  },
+  "GULLRWF1": {
+    "duid": "GULLRWF1",
+    "name": "Gullen Range Wind Farm",
+    "lat": -34.34,
+    "lon": 149.27,
+    "capacity_mw": 165,
+    "participant": "New Gullen Range Wind Farm Pty Ltd"
+  },
+  "GULLRWF2": {
+    "duid": "GULLRWF2",
+    "name": "Gullen Range Wind Farm",
+    "lat": -34.34,
+    "lon": 149.27,
+    "capacity_mw": 110,
+    "participant": "New Gullen Range Wind Farm Pty Ltd"
+  },
+  "GUNNING1": {
+    "duid": "GUNNING1",
+    "name": "Gunning Wind Farm",
+    "lat": -34.813333,
+    "lon": 149.4,
+    "capacity_mw": 46.5,
+    "participant": "Gunning Wind Energy Developments Pty Ltd"
+  },
+  "HALLWF1": {
+    "duid": "HALLWF1",
+    "name": "Hallett 1 Wind Farm",
+    "lat": -33.367778,
+    "lon": 138.728611,
+    "capacity_mw": 94.5,
+    "participant": "AGL SA Generation Pty Limited"
+  },
+  "HALLWF2": {
+    "duid": "HALLWF2",
+    "name": "Hallett 2 Wind Farm",
+    "lat": -33.367778,
+    "lon": 138.728611,
+    "capacity_mw": 71.4,
+    "participant": "AGL SA Generation Pty Limited"
+  },
+  "HD1WF1": {
+    "duid": "HD1WF1",
+    "name": "Hawkesdale Wind Farm",
+    "lat": -38.147894,
+    "lon": 142.361381,
+    "capacity_mw": 96.6,
+    "participant": "Hawkesdale Asset Pty Ltd as trustee for Hawkesdale Asset Trust"
+  },
+  "HDWF1": {
+    "duid": "HDWF1",
+    "name": "Hornsdale Wind Farm",
+    "lat": -33.050556,
+    "lon": 138.543611,
+    "capacity_mw": 102.4,
+    "participant": "HWF1 Pty Ltd"
+  },
+  "HDWF2": {
+    "duid": "HDWF2",
+    "name": "Hornsdale Wind Farm 2",
+    "lat": -33.06,
+    "lon": 138.54,
+    "capacity_mw": 102.4,
+    "participant": "HWF 2 Pty Ltd"
+  },
+  "HDWF3": {
+    "duid": "HDWF3",
+    "name": "Hornsdale Wind Farm 3",
+    "lat": -33.06,
+    "lon": 138.54,
+    "capacity_mw": 112,
+    "participant": "HWF3 Pty Ltd"
+  },
+  "KABANWF1": {
+    "duid": "KABANWF1",
+    "name": "Kaban Wind Farm",
+    "lat": -17.56,
+    "lon": 145.41,
+    "capacity_mw": 156,
+    "participant": "Kaban Wind Farm Pty Ltd as trustee for Kaban Wind Farm Trust"
+  },
+  "KEPWF1": {
+    "duid": "KEPWF1",
+    "name": "Kennedy Energy Park",
+    "lat": -20.88,
+    "lon": 144.42,
+    "capacity_mw": 43,
+    "participant": "Kennedy Energy Park Pty Ltd"
+  },
+  "KIATAWF1": {
+    "duid": "KIATAWF1",
+    "name": "Kiata Wind Farm",
+    "lat": -36.4,
+    "lon": 141.75,
+    "capacity_mw": 31.05,
+    "participant": "Kiata ProjectCo Pty Ltd Atf Kiata Project Trust"
+  },
+  "LGAPWF1": {
+    "duid": "LGAPWF1",
+    "name": "Lincoln Gap Wind Farm",
+    "lat": -32.564279,
+    "lon": 137.557328,
+    "capacity_mw": 126,
+    "participant": "Lincoln Gap Wind Farm (Operations) Pty Ltd"
+  },
+  "LGAPWF2": {
+    "duid": "LGAPWF2",
+    "name": "Lincoln Gap Wind Farm",
+    "lat": -32.564279,
+    "lon": 137.557328,
+    "capacity_mw": 86,
+    "participant": "Lincoln Gap Wind Farm (Operations) Pty Ltd"
+  },
+  "LKBONNY1": {
+    "duid": "LKBONNY1",
+    "name": "Lake Bonney Wind Farm Stage 1",
+    "lat": -37.76,
+    "lon": 140.4,
+    "capacity_mw": 80.5,
+    "participant": "Lake Bonney Wind Power Pty Ltd"
+  },
+  "LKBONNY2": {
+    "duid": "LKBONNY2",
+    "name": "Lake Bonney Stage 2 Windfarm",
+    "lat": -37.76,
+    "lon": 140.4,
+    "capacity_mw": 159,
+    "participant": "Lake Bonney Wind Power Pty Ltd"
+  },
+  "LKBONNY3": {
+    "duid": "LKBONNY3",
+    "name": "Lake Bonney Stage 3 Wind Farm",
+    "lat": -37.737781,
+    "lon": 140.388137,
+    "capacity_mw": 39,
+    "participant": "Lake Bonney Wind Power Pty Ltd"
+  },
+  "MACARTH1": {
+    "duid": "MACARTH1",
+    "name": "Macarthur Wind Farm",
+    "lat": -38.048957,
+    "lon": 142.192112,
+    "capacity_mw": 420,
+    "participant": "AGL Hydro Partnership"
+  },
+  "MCINTYR1": {
+    "duid": "MCINTYR1",
+    "name": "MacIntyre Wind Farm",
+    "lat": -28.32,
+    "lon": 151.54,
+    "capacity_mw": 923,
+    "participant": "MacIntyre UJV Operator Pty Ltd"
+  },
+  "MERCER01": {
+    "duid": "MERCER01",
+    "name": "Mt Mercer Wind Farm",
+    "lat": -37.841111,
+    "lon": 143.871111,
+    "capacity_mw": 131.2,
+    "participant": "Mt Mercer Windfarm Pty Ltd"
+  },
+  "MEWF1": {
+    "duid": "MEWF1",
+    "name": "Mount Emerald Wind Farm",
+    "lat": -17.133007,
+    "lon": 145.380644,
+    "capacity_mw": 180,
+    "participant": "Ergon Energy Queensland Pty Ltd"
+  },
+  "MRTLSWF1": {
+    "duid": "MRTLSWF1",
+    "name": "Mortlake South Wind Farm",
+    "lat": -38.127337,
+    "lon": 142.857801,
+    "capacity_mw": 157.5,
+    "participant": "Mortlake South Wind Farm Pty Ltd"
+  },
+  "MTGELWF1": {
+    "duid": "MTGELWF1",
+    "name": "Mt Gellibrand Wind Farm",
+    "lat": -38.23,
+    "lon": 143.77,
+    "capacity_mw": 138,
+    "participant": "Mt. Gellibrand Wind Farm Pty Ltd"
+  },
+  "MTMILLAR": {
+    "duid": "MTMILLAR",
+    "name": "Mt Millar Wind Farm",
+    "lat": -33.624444,
+    "lon": 136.703611,
+    "capacity_mw": 70,
+    "participant": "Mt Millar Wind Farm Pty Ltd"
+  },
+  "MUSSELR1": {
+    "duid": "MUSSELR1",
+    "name": "Musselroe Wind Farm",
+    "lat": -40.780225,
+    "lon": 148.010799,
+    "capacity_mw": 168,
+    "participant": "Hydro-Electric Corporation"
+  },
+  "MUWAWF1": {
+    "duid": "MUWAWF1",
+    "name": "Murra Warra Wind Farm",
+    "lat": -36.432404,
+    "lon": 142.317853,
+    "capacity_mw": 231.8,
+    "participant": "Telstra Energy (Generation) Pty Ltd"
+  },
+  "MUWAWF2": {
+    "duid": "MUWAWF2",
+    "name": "Murra Warra Wind Farm Stage 2",
+    "lat": -36.43,
+    "lon": 142.32,
+    "capacity_mw": 209,
+    "participant": "Murra Warra II Project Co Pty Ltd ATF The Murra Warra II Project Trust"
+  },
+  "NBHWF1": {
+    "duid": "NBHWF1",
+    "name": "North Brown Hill Wind Farm",
+    "lat": -33.367778,
+    "lon": 138.728611,
+    "capacity_mw": 132.3,
+    "participant": "AGL SA Generation Pty Limited"
+  },
+  "OAKLAND1": {
+    "duid": "OAKLAND1",
+    "name": "Oaklands Hill Wind Farm",
+    "lat": -37.683078,
+    "lon": 142.551678,
+    "capacity_mw": 67,
+    "participant": "AGL Hydro Partnership"
+  },
+  "PAREPW1": {
+    "duid": "PAREPW1",
+    "name": "Port Augusta Renewable Energy Park",
+    "lat": -32.566944,
+    "lon": 137.856111,
+    "capacity_mw": 210,
+    "participant": "Iberdrola Australia Energy Markets Pty Limited"
+  },
+  "RYANCWF1": {
+    "duid": "RYANCWF1",
+    "name": "Ryan Corner Wind Farm",
+    "lat": -38.271017,
+    "lon": 142.140647,
+    "capacity_mw": 218.4,
+    "participant": "Ryan Corner Development Pty Ltd"
+  },
+  "RYEPARK1": {
+    "duid": "RYEPARK1",
+    "name": "Rye Park Renewable Energy",
+    "lat": -32.138333,
+    "lon": 148.972778,
+    "capacity_mw": 396,
+    "participant": "Rye Park Renewable Energy Pty Ltd as trustee for Rye Park Wind Farm Trust"
+  },
+  "SALTCRK1": {
+    "duid": "SALTCRK1",
+    "name": "Salt Creek Wind Farm",
+    "lat": -37.95,
+    "lon": 142.63,
+    "capacity_mw": 54,
+    "participant": "Salt Creek Wind Farm Pty Ltd"
+  },
+  "SAPHWF1": {
+    "duid": "SAPHWF1",
+    "name": "Sapphire Wind Farm",
+    "lat": -29.7,
+    "lon": 151.41,
+    "capacity_mw": 270,
+    "participant": "The Trustee For The SWF1 Operations Trust"
+  },
+  "SNOWNTH1": {
+    "duid": "SNOWNTH1",
+    "name": "Snowtown Wind Farm Stage 2 North",
+    "lat": -33.83,
+    "lon": 138.118611,
+    "capacity_mw": 144,
+    "participant": "Snowtown Wind Farm Stage 2 Pty Ltd"
+  },
+  "SNOWSTH1": {
+    "duid": "SNOWSTH1",
+    "name": "Snowtown South Wind Farm",
+    "lat": -33.83,
+    "lon": 138.118611,
+    "capacity_mw": 126,
+    "participant": "Snowtown Wind Farm Stage 2 Pty Ltd"
+  },
+  "SNOWTWN1": {
+    "duid": "SNOWTWN1",
+    "name": "Snowtown Wind Farm Units 1 And 47",
+    "lat": -33.83,
+    "lon": 138.118611,
+    "capacity_mw": 99,
+    "participant": "Snowtown Wind Farm Pty Ltd"
+  },
+  "STARHLWF": {
+    "duid": "STARHLWF",
+    "name": "Starfish Hill Wind Farm",
+    "lat": -35.58,
+    "lon": 138.14,
+    "capacity_mw": 34.5,
+    "participant": "Starfish Hill Wind Farm Pty Ltd"
+  },
+  "STOCKYD1": {
+    "duid": "STOCKYD1",
+    "name": "Stockyard Hill Wind Farm",
+    "lat": -37.535833,
+    "lon": 143.251389,
+    "capacity_mw": 531,
+    "participant": "Stockyard Hill Wind Farm Pty Ltd"
+  },
+  "STWF1": {
+    "duid": "STWF1",
+    "name": "Silverton Wind Farm",
+    "lat": -37.683168,
+    "lon": 142.551678,
+    "capacity_mw": 198.94,
+    "participant": "PARF Company 8 Pty Ltd as The Trustee for Silverton Project Trust"
+  },
+  "TARALGA1": {
+    "duid": "TARALGA1",
+    "name": "Taralga Wind Farm",
+    "lat": -34.42352,
+    "lon": 149.826267,
+    "capacity_mw": 106.8,
+    "participant": "Taralga Wind Farm Nominees No 2 Pty Ltd (ATF Taralga Wind Farm Operating Trust)"
+  },
+  "WAMBOWF1": {
+    "duid": "WAMBOWF1",
+    "name": "Wambo Wind Farm 1",
+    "lat": -35.187301,
+    "lon": 149.524945,
+    "capacity_mw": 252,
+    "participant": "Stanwell Corporation Limited"
+  },
+  "WATERLWF": {
+    "duid": "WATERLWF",
+    "name": "Waterloo Wind Farm",
+    "lat": -34.00094,
+    "lon": 138.911567,
+    "capacity_mw": 130.8,
+    "participant": "Waterloo Wind Farm Pty Ltd"
+  },
+  "WGWF1": {
+    "duid": "WGWF1",
+    "name": "Willogoleche Wind Farm",
+    "lat": -33.39,
+    "lon": 138.85,
+    "capacity_mw": 119,
+    "participant": "Willogoleche Power Pty Ltd As The Trustee For The Willogoleche Operating Trust"
+  },
+  "WOODLWN1": {
+    "duid": "WOODLWN1",
+    "name": "Woodlawn Wind Farm",
+    "lat": -35.08,
+    "lon": 149.62,
+    "capacity_mw": 48.3,
+    "participant": "Woodlawn Wind Pty Ltd"
+  },
+  "WPWF": {
+    "duid": "WPWF",
+    "name": "Wattle Point Wind Farm",
+    "lat": -35.111624,
+    "lon": 137.7219,
+    "capacity_mw": 90.75,
+    "participant": "AGL SA Generation Pty Limited"
+  },
+  "WRWF1": {
+    "duid": "WRWF1",
+    "name": "White Rock Wind Farm",
+    "lat": -29.79,
+    "lon": 151.54,
+    "capacity_mw": 175,
+    "participant": "White Rock Wind Farm Pty Ltd"
+  },
+  "YENDWF1": {
+    "duid": "YENDWF1",
+    "name": "Yendon Wind Farm",
+    "lat": -37.629987,
+    "lon": 144.022717,
+    "capacity_mw": 144.4,
+    "participant": "Lal Lal Wind Farms Nom Co Pty Ltd"
+  }
+}
